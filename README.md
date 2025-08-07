@@ -1,6 +1,3 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-<br/>
 <div style="background-color: #000; border: 2px solid #444; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <!-- Tech Stack Badges -->
